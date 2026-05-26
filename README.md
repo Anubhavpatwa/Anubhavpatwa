@@ -20,20 +20,35 @@
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Languages
+# 🌱 Currently Exploring
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=redis,laravel" />
 </p>
 
-### ⚙️ Frameworks & Tools
+- Redis
+- RAG (Retrieval-Augmented Generation)
+- SaaS Applications
+- Laravel
+
+---
+
+# ⚙️ Frameworks & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=django,git,github,vscode,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=django,git,github,laravel,vscode" />
 </p>
 
-### ☁️ Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=redis,rag,sas" />
-</p>
+- Django
+- Git
+- GitHub
+- Laravel
+- VS Code
+- Kaggle
+- Power BI
+- MS Excel
+
+---
 
 ---
 
