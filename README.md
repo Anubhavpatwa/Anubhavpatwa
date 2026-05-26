@@ -12,7 +12,7 @@
 - 🎓 B.Tech CSE Student
 - 💻 Passionate about Backend & Full Stack Development
 - 🌱 Currently learning **Advanced Django, APIs , Ml Models & DataScience**
-- 🤖 Interested in **AI Applications, Ml models, Data Relwated & Real World Projects**
+- 🤖 Interested in **AI Applications, Ml models, Data Related & Real World Projects**
 - 🚀 Building projects that solve practical problems
 - ⚡ Love learning new technologies and improving daily
 
