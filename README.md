@@ -141,7 +141,7 @@ class AnubhavPatwa:
         ]
 
     def future_goal(self):
-        return "Become a Skilled Full Stack & AI Developer 🚀"
+        return "Become a Skilled Full Stack & ML Engineer 🚀"
 
 me = AnubhavPatwa()
 print(me.future_goal())
