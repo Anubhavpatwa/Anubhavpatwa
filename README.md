@@ -128,7 +128,8 @@ class AnubhavPatwa:
         self.learning = [
             "Advanced Django",
             "REST APIs",
-            "DevOps",
+            "Data Science",
+            "Data Analytics Tools (SAS, POWER BI, MS EXCEL )",
             "AI Integration"
         ]
 
