@@ -28,7 +28,7 @@
 
 - Redis
 - RAG (Retrieval-Augmented Generation)
-- SaaS Applications
+- SAS Applications
 - Laravel
 
 ---
